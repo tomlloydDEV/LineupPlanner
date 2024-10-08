@@ -1,0 +1,966 @@
+first_name,last_name,nationality,age,shirt_number,club,position
+Max,Aarons,England,24,37,Bournemouth,Defender
+Zach,Abbott,England,18,44,Nottingham Forest,Defender
+Josh,Acheampong,England,18,34,Chelsea,Defender
+Adam,Armstrong,England,27,9,Southampton,Forward
+Tyler,Adams,United States,25,18,Bournemouth,Midfielder
+Tosin,Adarabioyo,England,26,4,Chelsea,Defender
+Simon,Adingra,Cote D’Ivoire,22,24,Brighton & Hove Albion,Forward
+Asher,Agbinone,England,18,64,Crystal Palace,Midfielder
+Ola,Aina,Nigeria,27,34,Nottingham Forest,Defender
+Rayan,Aït-Nouri,Algeria,23,3,Wolverhampton Wanderers,Defender
+Kristoffer,Ajer,Norway,26,20,Brentford,Defender
+Romeo,Akachukwu,Ireland,18,54,Southampton,Midfielder
+Manuel,Akanji,Switzerland,29,25,Manchester City,Defender
+Nathan,Aké,Netherlands,29,6,Manchester City,Defender
+Yunus,Akgün,Turkey,24,N/A,N/A,Forward
+Marc,Albrighton,England,34,N/A,N/A,Midfielder
+Thiago,Alcântara,Spain,N/A,N/A,N/A,Midfielder
+Carlos,Alcaraz,Argentina,21,N/A,N/A,Midfielder
+Trent,Alexander-Arnold,England,25,66,Liverpool,Defender
+Alfie,Harrison,England,N/A,N/A,N/A,Midfielder
+Ali,Al-Hamadi,Iraq,22,16,Ipswich Town,Forward
+Alisson,Becker,Brazil,31,1,Liverpool,Goalkeeper
+Sonny,Aljofree,England,19,N/A,N/A,Defender
+Max,Alleyne,England,N/A,N/A,N/A,Defender
+Dele,Alli,England,28,N/A,N/A,Midfielder
+Miguel,Almirón,Paraguay,30,24,Newcastle United,Midfielder
+Sone,Aluko,Nigeria,N/A,N/A,N/A,Forward
+Julián,Alvarez,Argentina,24,N/A,N/A,Forward
+Will,Alves,England,19,37,Leicester City,Midfielder
+Steven,Alzate,Colombia,25,N/A,N/A,Midfielder
+Harry,Amass,England,17,41,Manchester United,Defender
+Sam,Amo-Ameyaw,England,18,27,Southampton,Forward
+Sofyan,Amrabat,Morocco,28,N/A,N/A,Midfielder
+Joseph,Anang,England,N/A,N/A,N/A,Goalkeeper
+Joachim,Andersen,Denmark,28,5,Fulham,Defender
+Elliot,Anderson,Scotland,21,8,Nottingham Forest,Midfielder
+N/A,André,Brazil,23,7,Wolverhampton Wanderers,Midfielder
+André,Gomes,Portugal,N/A,N/A,N/A,Midfielder
+Andreas,Pereira,Brazil,28,18,Fulham,Midfielder
+Andrey,Santos,Brazil,20,N/A,N/A,Midfielder
+Vincent,Angelini,Scotland,N/A,N/A,N/A,Goalkeeper
+N/A,Ângelo,Brazil,19,41,Chelsea,Forward
+Tino,Anjorin,England,22,N/A,N/A,Midfielder
+Aaron,Anselmino,Argentina,N/A,N/A,N/A,Defender
+Jaidon,Anthony,England,24,N/A,N/A,Forward
+Michail,Antonio,Jamaica,34,9,West Ham United,Forward
+N/A,Antony,Brazil,24,21,Manchester United,Forward
+Julián,Araujo,Mexico,23,22,Bournemouth,Defender
+Cameron,Archer,England,22,19,Southampton,Forward
+Alphonse,Areola,France,31,23,West Ham United,Goalkeeper
+Joe,Aribo,Nigeria,28,7,Southampton,Midfielder
+Harrison,Armstrong,England,N/A,N/A,N/A,Midfielder
+Harry,Arter,Ireland,N/A,N/A,N/A,Midfielder
+Benjamin,Arthur,England,N/A,N/A,N/A,Defender
+Harrison,Ashby,Scotland,22,N/A,N/A,Defender
+Noël,Atom,Germany,N/A,N/A,N/A,Defender
+Sèrge,Aurier,Cote D’Ivoire,31,N/A,N/A,Defender
+Brandon,Austin,England,25,40,Tottenham Hotspur,Goalkeeper
+Taiwo,Awoniyi,Nigeria,27,9,Nottingham Forest,Forward
+Yasin,Ayari,Sweden,20,44,Blackburn Rovers,Midfielder
+Jordan,Ayew,Ghana,32,18,Leicester City,Forward
+Leon,Ayinde,Ireland,N/A,N/A,N/A,Midfielder
+Benoît,Badiashile,France,23,5,Chelsea,Defender
+Elkan,Baggott,Indonesia,21,N/A,N/A,Defender
+Leon,Bailey,Jamaica,27,31,Aston Villa,Midfielder
+Eric,Bailly,Cote D’Ivoire,30,N/A,N/A,Defender
+Stefan,Bajcetic,Spain,19,N/A,N/A,Midfielder
+Benicio,Baker-Boaitey,England,20,N/A,N/A,Forward
+Ellery,Balcombe,England,24,N/A,N/A,Goalkeeper
+Carlos,Baleba,Cameroon,20,20,Brighton & Hove Albion,Midfielder
+Dominic,Ball,England,N/A,N/A,N/A,Defender
+Dom,Ballard,England,19,N/A,N/A,Forward
+Emilio,Ballard-Matthews,England,16,N/A,N/A,Forward
+Fodé,Ballo-Touré,Senegal,N/A,N/A,N/A,Defender
+Folarin,Balogun,United States,23,N/A,N/A,Forward
+Shandon,Baptiste,Grenada,26,N/A,N/A,Midfielder
+Valentín,Barco,Argentina,20,N/A,N/A,Defender
+Ross,Barkley,England,30,6,Aston Villa,Midfielder
+Harvey,Barnes,England,26,11,Newcastle United,Midfielder
+Ty,Barnett,England,N/A,N/A,N/A,Forward
+Enzo,Barrenechea,Argentina,23,N/A,N/A,Midfielder
+Luca,Barrington,England,19,14,Brighton & Hove Albion,Forward
+Calvin,Bassey,Nigeria,24,3,Fulham,Defender
+Stevie,Bausor,England,N/A,N/A,N/A,Goalkeeper
+Altay,Bayindir,Turkey,26,1,Manchester United,Goalkeeper
+Gavin,Bazunu,Ireland,22,31,Southampton,Goalkeeper
+Eddie,Beach,Wales,20,N/A,N/A,Goalkeeper
+Beau,Booth,England,N/A,N/A,N/A,Midfielder
+Mads,Bech,Denmark,25,N/A,N/A,Defender
+Owen,Beck,Wales,22,N/A,N/A,Defender
+Jan,Bednarek,Poland,28,35,Southampton,Defender
+Asmir,Begovic,Bosnia & Herzegovina,37,31,Everton,Goalkeeper
+Armel,Bella-Kotchap,Germany,22,6,PSV Eindhoven,Defender
+Jean-Ricner,Bellegarde,France,26,27,Wolverhampton Wanderers,Midfielder
+Steven,Benda,Germany,25,23,Fulham,Goalkeeper
+Lewys,Benjamin,Wales,N/A,N/A,N/A,Goalkeeper
+Rhys,Bennett,England,20,N/A,N/A,Defender
+Saïd,Benrahma,Algeria,29,N/A,N/A,Forward
+Rodrigo,Bentancur,Uruguay,27,30,Tottenham Hotspur,Midfielder
+Dan,Bentley,England,31,25,Wolverhampton Wanderers,Goalkeeper
+Sander,Berge,Norway,26,16,Fulham,Midfielder
+Lucas,Bergström,Finland,21,47,Chelsea,Goalkeeper
+Lucas,Bergvall,Sweden,18,15,Tottenham Hotspur,Midfielder
+Bernardo,Silva,Portugal,30,20,Manchester City,Midfielder
+N/A,Beto,Portugal,26,14,Everton,Forward
+Marcus,Bettinelli,England,32,13,Chelsea,Goalkeeper
+Giulian,Biancone,France,24,N/A,N/A,Defender
+Mika,Biereth,Denmark,21,18,SK Puntigamer Sturm Graz,Forward
+Philip,Billing,Denmark,28,29,Bournemouth,Midfielder
+Yves,Bissouma,Mali,28,8,Tottenham Hotspur,Midfielder
+Leo,Black,England,N/A,N/A,N/A,Forward
+Harvey,Blair,England,20,N/A,N/A,Forward
+Malachi,Boateng,England,22,N/A,N/A,Midfielder
+Oscar,Bobb,Norway,21,52,Manchester City,Midfielder
+Lamare,Bogarde,Netherlands,20,26,Aston Villa,Defender
+Bendegúz,Bolla,Hungary,24,N/A,N/A,Defender
+Willy-Arnaud,Boly,Cote D’Ivoire,33,30,Nottingham Forest,Defender
+Alex,Borto,United States,20,36,Fulham,Goalkeeper
+Sven,Botman,Netherlands,24,4,Newcastle United,Defender
+Jarrod,Bowen,England,27,20,West Ham United,Forward
+Josh,Bowler,England,25,N/A,N/A,Midfielder
+Conor,Bradley,Northern Ireland,21,84,Liverpool,Defender
+Zak,Bradshaw,England,20,N/A,N/A,Defender
+Cameron,Bragg,England,19,N/A,N/A,Midfielder
+Jarrad,Branthwaite,England,22,32,Everton,Defender
+Sammy,Braybrooke,England,N/A,N/A,N/A,Midfielder
+James,Bree,England,26,14,Southampton,Defender
+Ben,Brereton,Chile,25,17,Southampton,Forward
+Ethan,Brierley,England,N/A,N/A,N/A,Midfielder
+Logan,Briggs,England,N/A,N/A,N/A,Midfielder
+Nathan,Broadhead,Wales,26,33,Ipswich Town,Forward
+Armando,Broja,Albania,22,N/A,Everton,Forward
+Josh,Brooking,England,N/A,N/A,N/A,Defender
+David,Brooks,Wales,27,7,Bournemouth,Midfielder
+Bruno,Fernandes,Portugal,29,8,Manchester United,Midfielder
+Bruno,Guimarães,Brazil,26,39,Newcastle United,Midfielder
+Bruno,Jordão,Portugal,N/A,N/A,N/A,Midfielder
+Gerard,Buabo,England,19,N/A,N/A,Forward
+Emiliano,Buendía,Argentina,27,10,Aston Villa,Midfielder
+Santiago,Bueno,Uruguay,25,4,Wolverhampton Wanderers,Defender
+Facundo,Buonanotte,Argentina,19,40,Leicester City,Midfielder
+Cameron,Burgess,Australia,28,15,Ipswich Town,Defender
+Dan,Burn,England,32,33,Newcastle United,Defender
+Wes,Burns,Wales,29,7,Ipswich Town,Forward
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Killian,Cahill,Ireland,20,38,Brighton & Hove Albion,Goalkeeper
+Moisés,Caicedo,Ecuador,22,25,Chelsea,Midfielder
+Tom,Cairney,Scotland,33,10,Fulham,Midfielder
+Jens,Cajuste,Sweden,25,12,Ipswich Town,Midfielder
+Riccardo,Calafiori,Italy,22,33,Arsenal,Defender
+Duje,Caleta-Car,Croatia,27,N/A,N/A,Defender
+Dominic,Calvert-Lewin,England,27,9,Everton,Forward
+Elijah,Campbell,England,20,N/A,N/A,Defender
+Thomas,Cannon,Ireland,21,N/A,N/A,Forward
+Sergi,Canós,Spain,27,N/A,N/A,Midfielder
+Carlos,Forbs,Portugal,20,N/A,Wolverhampton Wanderers,Forward
+Carlos,Miguel,Brazil,25,33,Nottingham Forest,Goalkeeper
+Carlos,Vinícius,Brazil,29,30,Fulham,Forward
+Scott,Carson,England,39,33,Manchester City,Goalkeeper
+Cesare,Casadei,Italy,21,31,Chelsea,Midfielder
+N/A,Casemiro,Brazil,32,18,Manchester United,Midfielder
+Kaelan,Casey,England,19,42,West Ham United,Defender
+Matty,Cash,Poland,27,2,Aston Villa,Defender
+Timothy,Castagne,Belgium,28,21,Fulham,Defender
+Leo,Castledine,England,19,N/A,N/A,Midfielder
+Cédric,Soares,Portugal,N/A,N/A,N/A,Defender
+Trevoh,Chalobah,England,25,N/A,Crystal Palace,Defender
+Calum,Chambers,England,29,N/A,N/A,Defender
+Conor,Chaplin,England,27,10,Ipswich Town,Forward
+Shea,Charles,Northern Ireland,20,N/A,N/A,Midfielder
+Dylan,Charlton,England,N/A,N/A,N/A,Defender
+Federico,Chiesa,Italy,26,14,Liverpool,Forward
+Ben,Chilwell,England,27,21,Chelsea,Defender
+N/A,Chiquinho,Portugal,24,N/A,N/A,Forward
+Tawanda,Chirewa,Zimbabwe,20,N/A,N/A,Midfielder
+Leon,Chiwome,England,N/A,N/A,N/A,Forward
+Samy,Chouchane,Tunisia,20,N/A,N/A,Midfielder
+Hamza,Choudhury,England,26,17,Leicester City,Midfielder
+Ryan,Christie,Scotland,29,10,Bournemouth,Midfielder
+Carney,Chukwuemeka,England,20,17,Chelsea,Midfielder
+Bobby,Clark,England,19,N/A,N/A,Midfielder
+Nathaniel,Clyne,England,33,17,Crystal Palace,Defender
+Conor,Coady,England,31,4,Leicester City,Defender
+Séamus,Coleman,Ireland,35,23,Everton,Defender
+Nathan,Collins,Ireland,23,22,Brentford,Defender
+Toby,Collyer,England,20,43,Manchester United,Midfielder
+Levi,Colwill,England,21,6,Chelsea,Defender
+Lewis,Cook,England,27,4,Bournemouth,Midfielder
+Maxwel,Cornet,Cote D’Ivoire,27,N/A,Southampton,Forward
+Vladimír,Coufal,Czech Republic,32,5,West Ham United,Defender
+Conor,Coventry,Ireland,24,N/A,N/A,Midfielder
+Brandon,Cover,Jamaica,20,N/A,N/A,Midfielder
+Matthew,Cox,England,21,33,Bristol Rovers,Goalkeeper
+Amario,Cozier-Duberry,England,19,N/A,N/A,Midfielder
+Tristan,Crama,France,22,N/A,N/A,Defender
+Billy,Crellin,England,24,N/A,N/A,Goalkeeper
+Aaron,Cresswell,England,34,3,West Ham United,Defender
+Marc,Cucurella,Spain,26,3,Chelsea,Defender
+Jorge,Cuenca,Spain,24,15,Fulham,Defender
+Luke,Cundle,England,22,25,Stoke City,Midfielder
+Ted,Curd,England,N/A,N/A,N/A,Goalkeeper
+Eric,da Silva Moreira,Germany,18,17,Nottingham Forest,Forward
+Patson,Daka,Zambia,25,20,Leicester City,Forward
+Mikkel,Damsgaard,Denmark,24,24,Brentford,Midfielder
+Daniel,Podence,Portugal,28,10,Wolverhampton Wanderers,Midfielder
+N/A,Danilo,Brazil,23,28,Nottingham Forest,Midfielder
+Arnaut,Danjuma,Netherlands,27,N/A,N/A,Forward
+Jayden,Danns,England,N/A,N/A,N/A,Forward
+Josh,Dasilva,England,25,10,Brentford,Midfielder
+David,Carmo,Angola,25,N/A,N/A,Defender
+David,Datro Fofana,Cote D’Ivoire,21,23,Burnley,Forward
+Harvey,Davies,England,21,N/A,N/A,Goalkeeper
+Keinan,Davis,England,26,N/A,N/A,Forward
+Craig,Dawson,England,34,15,Wolverhampton Wanderers,Defender
+Lucas,De Bolle,Scotland,21,N/A,N/A,Midfielder
+Kevin,De Bruyne,Belgium,33,17,Manchester City,Midfielder
+Bobby,De Cordova-Reid,Jamaica,31,14,Leicester City,Forward
+Luc,De Fougerolles,Canada,N/A,N/A,N/A,Defender
+Matthijs,de Ligt,Netherlands,25,4,Manchester United,Defender
+Deivid,Washington,Brazil,19,36,Chelsea,Forward
+Liam,Delap,England,21,19,Ipswich Town,Forward
+Leander,Dendoncker,Belgium,29,N/A,N/A,Midfielder
+Will,Dennis,England,24,40,Bournemouth,Goalkeeper
+Justin,Devenny,Northern Ireland,20,55,Crystal Palace,Midfielder
+Alfie,Devine,England,20,45,Tottenham Hotspur,Midfielder
+Kiernan,Dewsbury-Hall,England,25,22,Chelsea,Midfielder
+Moussa,Diaby,France,25,N/A,N/A,Forward
+Amad,Diallo,Cote D’Ivoire,22,16,Manchester United,Forward
+Luis,Díaz,Colombia,27,7,Liverpool,Forward
+Matt,Dibley-Dias,New Zealand,20,N/A,N/A,Midfielder
+Tyler,Dibling,England,18,33,Southampton,Midfielder
+Diego,Carlos,Brazil,31,3,Aston Villa,Defender
+Diego,Moreira,Portugal,20,N/A,N/A,Forward
+Eric,Dier,England,30,N/A,N/A,Defender
+Lucas,Digne,France,31,12,Aston Villa,Defender
+Diogo,Dalot,Portugal,25,20,Manchester United,Defender
+Diogo,Jota,Portugal,27,20,Liverpool,Forward
+Issa,Diop,France,27,31,Fulham,Defender
+Axel,Disasi,France,26,2,Chelsea,Defender
+Roman,Dixon,England,19,75,Everton,Defender
+Ben,Doak,Scotland,18,N/A,N/A,Forward
+Lewis,Dobbin,England,21,N/A,N/A,Forward
+Matt,Doherty,Ireland,32,2,Wolverhampton Wanderers,Defender
+Jérémy,Doku,Belgium,22,11,Manchester City,Forward
+Nicolás,Domínguez,Argentina,26,16,Nottingham Forest,Midfielder
+Janoi,Donacien,St. Lucia,30,44,Ipswich Town,Defender
+Jamie,Donley,England,19,N/A,N/A,Forward
+Alfie,Dorrington,England,N/A,N/A,N/A,Defender
+Cheick,Doucouré,Mali,24,28,Crystal Palace,Midfielder
+Douglas,Luiz,Brazil,26,N/A,N/A,Midfielder
+Flynn,Downes,England,25,4,Southampton,Midfielder
+Callum,Doyle,England,20,N/A,N/A,Defender
+Mohamed,Dräger,Tunisia,28,N/A,N/A,Defender
+Radu,Dragusin,Romania,22,6,Tottenham Hotspur,Defender
+Martin,Dúbravka,Slovakia,35,1,Newcastle United,Goalkeeper
+Joshua,Duffus,England,N/A,N/A,N/A,Forward
+Paul,Dummett,Wales,32,N/A,N/A,Defender
+Lewis,Dunk,England,32,5,Brighton & Hove Albion,Defender
+Jhon,Durán,Colombia,20,9,Aston Villa,Forward
+Kiano,Dyer,England,N/A,N/A,N/A,Midfielder
+George,Earthy,England,19,N/A,N/A,Midfielder
+Malcolm,Ebiowei,England,20,N/A,N/A,Forward
+N/A,Ederson,Brazil,31,31,Manchester City,Goalkeeper
+George,Edmundson,England,27,N/A,N/A,Defender
+Odsonne,Édouard,France,26,N/A,Leicester City,Forward
+Samuel,Edozie,England,21,23,Southampton,Midfielder
+Ronnie,Edwards,England,21,12,Southampton,Defender
+Bilal,El Khannouss,Morocco,20,11,Leicester City,Midfielder
+Idris,El Mizouni,Tunisia,23,N/A,N/A,Midfielder
+Anthony,Elanga,Sweden,22,21,Nottingham Forest,Forward
+Harvey,Elliott,England,21,19,Liverpool,Midfielder
+Noam,Emeran,France,N/A,N/A,N/A,Forward
+Johnny,Emerson,Scotland,N/A,N/A,N/A,Forward
+Emerson,Royal,Brazil,25,N/A,N/A,Defender
+Lander,Emery,Spain,N/A,N/A,N/A,Goalkeeper
+Julio,Enciso,Paraguay,20,10,Brighton & Hove Albion,Midfielder
+Wataru,Endo,Japan,31,3,Liverpool,Midfielder
+Ethan,Ennis,England,N/A,N/A,N/A,Midfielder
+Enzo,Fernández,Argentina,23,8,Chelsea,Midfielder
+Christian,Eriksen,Denmark,32,14,Manchester United,Midfielder
+Pervis,Estupiñán,Ecuador,26,30,Brighton & Hove Albion,Defender
+N/A,Evanilson,Brazil,24,9,Bournemouth,Forward
+Jonny,Evans,Northern Ireland,36,35,Manchester United,Defender
+Julian,Eyestone,United States,N/A,N/A,N/A,Goalkeeper
+Eberechi,Eze,England,26,10,Crystal Palace,Midfielder
+Lukasz,Fabianski,Poland,39,1,West Ham United,Goalkeeper
+Fábio,Carvalho,Portugal,22,14,Brentford,Midfielder
+Fábio,Silva,Portugal,22,N/A,N/A,Forward
+Fábio,Vieira,Portugal,24,N/A,N/A,Midfielder
+Wout,Faes,Belgium,26,3,Leicester City,Defender
+Romain,Faivre,France,26,N/A,N/A,Midfielder
+Amar,Fatah,Sweden,N/A,N/A,N/A,Forward
+Abdul,Fatawu,Ghana,20,7,Leicester City,Forward
+Ansu,Fati,Spain,21,N/A,N/A,Forward
+N/A,Felipe,Brazil,N/A,N/A,N/A,Defender
+Evan,Ferguson,Ireland,19,28,Brighton & Hove Albion,Forward
+Álvaro,Fernández,Spain,21,N/A,N/A,Defender
+Will,Fish,England,21,N/A,N/A,Defender
+Mark,Flekken,Netherlands,31,1,Brentford,Goalkeeper
+Phil,Foden,England,24,47,Manchester City,Midfielder
+Wes,Foderingham,England,33,21,West Ham United,Goalkeeper
+Pablo,Fornals,Spain,28,N/A,N/A,Midfielder
+Omari,Forson,England,20,N/A,N/A,Forward
+Fraser,Forster,England,36,20,Tottenham Hotspur,Goalkeeper
+Tyrese,Francois,Australia,24,N/A,N/A,Midfielder
+Ryan,Fraser,Scotland,30,N/A,Southampton,Midfielder
+N/A,Fred,Brazil,31,N/A,N/A,Midfielder
+Ryan,Fredericks,England,N/A,N/A,N/A,Defender
+Benjamin,Fredrick,Nigeria,N/A,N/A,N/A,Defender
+Remo,Freuler,Switzerland,32,8,Bologna,Midfielder
+Niclas,Füllkrug,Germany,31,11,West Ham United,Forward
+Gabriel,Jesus,Brazil,27,9,Arsenal,Forward
+Gabriel,Magalhães,Brazil,26,6,Arsenal,Defender
+Gabriel,Martinelli,Brazil,23,11,Arsenal,Forward
+Cody,Gakpo,Netherlands,25,18,Liverpool,Forward
+Conor,Gallagher,England,24,N/A,N/A,Midfielder
+Tomas,Galvez,Finland,19,N/A,N/A,Defender
+Joe,Gardner,England,N/A,N/A,N/A,Forward
+Alejandro,Garnacho,Argentina,20,17,Manchester United,Forward
+James,Garner,England,23,37,Everton,Midfielder
+Joe,Gauci,Australia,24,18,Aston Villa,Goalkeeper
+Jean-Philippe,Gbamin,Cote D’Ivoire,28,N/A,N/A,Midfielder
+Billy,Gee,England,N/A,N/A,N/A,Midfielder
+Tyrique,George,England,18,32,Chelsea,Forward
+Saman,Ghoddos,Iran,N/A,N/A,N/A,Forward
+Morgan,Gibbs-White,England,24,10,Nottingham Forest,Midfielder
+Bryan,Gil,Spain,23,N/A,N/A,Forward
+Alfie,Gilchrist,England,20,N/A,N/A,Defender
+Mark,Gillespie,England,32,29,Newcastle United,Goalkeeper
+Billy,Gilmour,Scotland,N/A,N/A,N/A,Midfielder
+Ben,Godfrey,England,26,N/A,N/A,Defender
+Martial,Godo,England,21,17,Wigan Athletic,Forward
+Harvey,Godsmark-Ford,England,N/A,N/A,N/A,Midfielder
+Michael,Golding,England,18,34,Leicester City,Midfielder
+Joe,Gomez,England,27,2,Liverpool,Defender
+Gonçalo,Guedes,Portugal,27,9,Villarreal,Forward
+Enso,González,Paraguay,19,30,Wolverhampton Wanderers,Forward
+Charlie,Goode,England,29,N/A,N/A,Defender
+Kaide,Gordon,England,19,N/A,N/A,Forward
+Daniel,Gore,England,19,44,Port Vale,Midfielder
+Jimi,Gower,England,N/A,N/A,N/A,Midfielder
+TRUE,Grant,England,N/A,N/A,N/A,Goalkeeper
+Ryan,Gravenberch,Netherlands,22,38,Liverpool,Midfielder
+Demarai,Gray,Jamaica,N/A,N/A,N/A,Forward
+Jack,Grealish,England,28,10,Manchester City,Midfielder
+Jacob,Greaves,England,23,24,Ipswich Town,Defender
+Ben,Greenwood,Ireland,21,N/A,N/A,Defender
+Seán,Grehan,Ireland,20,N/A,N/A,Defender
+Harvey,Griffiths,England,N/A,N/A,N/A,Midfielder
+Pascal,Groß,Germany,33,N/A,N/A,Midfielder
+Brajan,Gruda,Germany,20,8,Brighton & Hove Albion,Midfielder
+Vicente,Guaita,Spain,37,N/A,N/A,Goalkeeper
+Marc,Guéhi,England,24,6,Crystal Palace,Defender
+Idrissa,Gueye,Senegal,34,27,Everton,Midfielder
+Marc,Guiu,Spain,18,38,Chelsea,Forward
+Ilkay,Gündogan,Germany,33,19,Manchester City,Midfielder
+Luca,Gunter,England,N/A,N/A,N/A,Goalkeeper
+Gustavo,Nunes,Brazil,18,39,Brentford,Forward
+Gustavo,Scarpa,Brazil,N/A,N/A,N/A,Midfielder
+Malo,Gusto,France,21,27,Chelsea,Defender
+Josko,Gvardiol,Croatia,22,24,Manchester City,Defender
+Erling,Haaland,Norway,24,9,Manchester City,Forward
+Lewis,Hall,England,19,20,Newcastle United,Defender
+Micah,Hamilton,England,20,N/A,N/A,Forward
+Isak,Hansen-Aaröen,Norway,N/A,N/A,N/A,Midfielder
+Marcus,Harness,Ireland,28,N/A,N/A,Midfielder
+Luke,Harris,Wales,19,N/A,N/A,Midfielder
+Ollie,Harrison,England,N/A,N/A,N/A,Midfielder
+Harry,Clarke,England,23,2,Ipswich Town,Defender
+Taylor,Harwood-Bellis,England,22,6,Southampton,Defender
+Kortney,Hause,England,29,30,Aston Villa,Defender
+Kai,Havertz,Germany,25,29,Arsenal,Midfielder
+Isaac,Hayden,England,29,14,Newcastle United,Midfielder
+Chanse,Headman,England,N/A,N/A,N/A,Defender
+Tom,Heaton,England,38,22,Manchester United,Goalkeeper
+Ayden,Heaven,England,N/A,N/A,N/A,Defender
+Cathal,Heffernan,Ireland,N/A,N/A,N/A,Defender
+Krisztián,Hegyi,Hungary,21,N/A,N/A,Goalkeeper
+Karl,Hein,Estonia,22,N/A,N/A,Goalkeeper
+Dean,Henderson,England,27,1,Crystal Palace,Goalkeeper
+Jeff,Hendrick,Ireland,32,N/A,N/A,Midfielder
+Wayne,Hennessey,Wales,N/A,N/A,N/A,Goalkeeper
+Rico,Henry,England,27,3,Brentford,Defender
+Mads,Hermansen,Denmark,24,30,Leicester City,Goalkeeper
+Travis,Hernes,Norway,N/A,N/A,N/A,Midfielder
+Finlay,Herrick,England,N/A,N/A,N/A,Goalkeeper
+Jaden,Heskey,England,N/A,N/A,N/A,Forward
+Aaron,Hickey,Scotland,22,2,Brentford,Defender
+James,Hill,England,22,23,Bournemouth,Defender
+Jack,Hinchy,England,21,N/A,N/A,Midfielder
+Jack,Hinshelwood,England,19,41,Brighton & Hove Albion,Midfielder
+George,Hirst,England,25,27,Ipswich Town,Forward
+Václav,Hladky,Czech Republic,33,N/A,N/A,Goalkeeper
+Joe,Hodge,Ireland,21,N/A,N/A,Midfielder
+Ki-Jana,Hoever,Netherlands,22,N/A,N/A,Defender
+Rob,Holding,England,28,4,Crystal Palace,Defender
+Mason,Holgate,England,27,N/A,N/A,Defender
+Isaac,Holland,England,N/A,N/A,N/A,Midfielder
+Fletcher,Holman,England,N/A,N/A,N/A,Forward
+Ethan,Horvath,United States,29,N/A,N/A,Goalkeeper
+Justin,Hubner,Indonesia,N/A,N/A,N/A,Defender
+Callum,Hudson-Odoi,England,23,14,Nottingham Forest,Forward
+Will,Hughes,England,29,19,Crystal Palace,Midfielder
+Joe,Hugill,England,20,N/A,N/A,Forward
+Hugo,Bueno,Spain,21,N/A,N/A,Defender
+Dean,Huijsen,Spain,19,2,Bournemouth,Defender
+Bashir,Humphreys,England,21,N/A,N/A,Defender
+Mackenzie,Hunt,United Arab Emirates,22,N/A,N/A,Defender
+James,Huntley,England,N/A,N/A,N/A,Midfielder
+Omari,Hutchinson,Jamaica,20,20,Ipswich Town,Forward
+Hwang,Hee-Chan,South Korea,28,11,Wolverhampton Wanderers,Forward
+Hwang,Ui-Jo,South Korea,32,35,Nottingham Forest,Forward
+Pierre-Emile,Højbjerg,Denmark,29,N/A,N/A,Midfielder
+Rasmus,Højlund,Denmark,21,9,Manchester United,Forward
+Igor,Julio,Brazil,26,3,Brighton & Hove Albion,Defender
+Kelechi,Iheanacho,Nigeria,27,N/A,N/A,Forward
+Samuel,Iling-Junior,England,20,N/A,N/A,Forward
+Danny,Imray,England,21,N/A,N/A,Defender
+Danny,Ings,England,32,18,West Ham United,Forward
+Tim,Iroegbunam,England,21,42,Everton,Midfielder
+Andy,Irving,Scotland,24,N/A,N/A,Midfielder
+Alexander,Isak,Sweden,24,14,Newcastle United,Forward
+Daniel,Iversen,Denmark,27,1,Stoke City,Goalkeeper
+Alex,Iwobi,Nigeria,28,17,Fulham,Forward
+Jack,Clarke,England,23,47,Ipswich Town,Forward
+Jack,Fletcher,England,N/A,N/A,N/A,Forward
+Ben,Jackson,England,N/A,N/A,N/A,Defender
+Jacob,Murphy,England,29,23,Newcastle United,Midfielder
+Reece,James,England,24,24,Chelsea,Defender
+Vitaly,Janelt,Germany,26,27,Brentford,Midfielder
+Vítezslav,Jaros,Czech Republic,23,N/A,N/A,Goalkeeper
+Daniel,Jebbison,Canada,21,N/A,N/A,Forward
+Mofe,Jemide,England,N/A,N/A,N/A,Defender
+Mathias,Jensen,Denmark,28,8,Brentford,Midfielder
+Raúl,Jiménez,Mexico,33,7,Fulham,Forward
+João,Cancelo,Portugal,30,N/A,N/A,Defender
+João,Félix,Portugal,24,14,Chelsea,Forward
+João,Gomes,Brazil,23,8,Wolverhampton Wanderers,Midfielder
+João,Palhinha,Portugal,29,N/A,N/A,Midfielder
+João,Pedro,Brazil,22,9,Brighton & Hove Albion,Forward
+João,Virgínia,Portugal,24,12,Everton,Goalkeeper
+N/A,Joelinton,Brazil,28,7,Newcastle United,Forward
+Nile,John,England,21,N/A,N/A,Midfielder
+Ben,Johnson,England,24,18,Ipswich Town,Defender
+Sam,Johnstone,England,31,31,Wolverhampton Wanderers,Goalkeeper
+Curtis,Jones,England,23,17,Liverpool,Midfielder
+Jonjo,Shelvey,England,32,N/A,N/A,Midfielder
+N/A,Jonny,Spain,30,N/A,N/A,Defender
+N/A,Jorginho,Italy,32,20,Arsenal,Midfielder
+José,Sá,Portugal,31,1,Wolverhampton Wanderers,Goalkeeper
+Josh,Feeney,England,19,N/A,N/A,Defender
+Jota,Silva,Portugal,25,20,Nottingham Forest,Forward
+N/A,Juan,Brazil,N/A,N/A,N/A,Forward
+Marc,Jurado,Spain,20,N/A,N/A,Defender
+James,Justin,England,26,2,Leicester City,Defender
+Filip,Jørgensen,Denmark,22,12,Chelsea,Goalkeeper
+Issa,Kaboré,Burkina Faso,23,N/A,N/A,Defender
+Ferdi,Kadioglu,Turkey,24,N/A,Brighton & Hove Albion,Midfielder
+Sasa,Kalajdzic,Austria,27,18,Wolverhampton Wanderers,Forward
+Daichi,Kamada,Japan,28,18,Crystal Palace,Midfielder
+Boubacar,Kamara,France,24,44,Aston Villa,Midfielder
+Willy,Kambwala,France,20,N/A,N/A,Defender
+Mohamadou,Kanté,France,N/A,N/A,N/A,Midfielder
+Loris,Karius,Germany,N/A,N/A,N/A,Goalkeeper
+Jadel,Katongo,England,19,N/A,N/A,Defender
+Leigh,Kavanagh,Ireland,N/A,N/A,N/A,Defender
+Michael,Keane,England,31,5,Everton,Defender
+Thilo,Kehrer,Germany,27,N/A,N/A,Defender
+Caoimhín,Kelleher,Ireland,25,62,Liverpool,Goalkeeper
+Lloyd,Kelly,England,25,25,Newcastle United,Defender
+Omari,Kellyman,England,18,37,Chelsea,Forward
+N/A,Kepa,Spain,29,13,Bournemouth,Goalkeeper
+Milos,Kerkez,Hungary,20,3,Bournemouth,Defender
+Kaine,Kesler-Hayden,England,21,N/A,N/A,Defender
+Aaron,Keto-Diyawa,England,N/A,N/A,N/A,Defender
+Gavin,Kilkenny,Ireland,24,N/A,N/A,Midfielder
+Maximilian,Kilman,England,27,26,West Ham United,Defender
+Kim,Ji-Soo,South Korea,19,36,Brentford,Defender
+Josh,King,England,17,24,Fulham,Midfielder
+Max,Kinsey,England,N/A,N/A,N/A,Defender
+Jakub,Kiwior,Poland,24,15,Arsenal,Defender
+Justin,Kluivert,Netherlands,25,19,Bournemouth,Forward
+Ben,Knight,England,22,N/A,N/A,Forward
+Jacob,Knightbridge,England,20,N/A,N/A,Goalkeeper
+Anthony,Knockaert,France,32,N/A,N/A,Midfielder
+Gideon,Kodua,England,19,N/A,N/A,Forward
+Yunus,Konak,Turkey,18,26,Brentford,Midfielder
+Ibrahima,Konaté,France,25,5,Liverpool,Defender
+Terence,Kongolo,Netherlands,30,N/A,N/A,Defender
+Ezri,Konsa,England,26,4,Aston Villa,Defender
+Lewis,Koumas,Wales,18,N/A,N/A,Forward
+Cheikhou,Kouyaté,Senegal,N/A,N/A,N/A,Midfielder
+Mateo,Kovacic,Croatia,30,8,Manchester City,Midfielder
+Matej,Kovár,Czech Republic,24,N/A,N/A,Goalkeeper
+Kacper,Kozlowski,Poland,20,N/A,N/A,Midfielder
+Caleb,Kporha,England,N/A,N/A,N/A,Defender
+Emil,Krafth,Sweden,30,17,Newcastle United,Defender
+Victor,Kristiansen,Denmark,N/A,N/A,N/A,Defender
+Mohammed,Kudus,Ghana,24,14,West Ham United,Midfielder
+Dejan,Kulusevski,Sweden,24,21,Tottenham Hotspur,Midfielder
+Garang,Kuol,Australia,19,38,Newcastle United,Forward
+Rio,Kyerematen,England,N/A,N/A,N/A,Midfielder
+Maxence,Lacroix,France,24,5,Crystal Palace,Defender
+Freddie,Ladapo,England,31,N/A,N/A,Forward
+Levi,Laing,England,21,N/A,N/A,Defender
+Adam,Lallana,England,36,10,Southampton,Midfielder
+Tariq,Lamptey,Ghana,23,2,Brighton & Hove Albion,Defender
+Will,Lankshear,England,N/A,N/A,N/A,Forward
+Aymeric,Laporte,Spain,30,N/A,N/A,Defender
+Juan,Larios,Spain,20,28,Southampton,Defender
+Jamaal,Lascelles,England,30,6,Newcastle United,Defender
+Roméo,Lavia,Belgium,20,45,Chelsea,Midfielder
+Nico,Lawrence,England,20,N/A,N/A,Defender
+Mario,Lemina,Gabon,31,5,Wolverhampton Wanderers,Midfielder
+Clément,Lenglet,France,29,N/A,N/A,Defender
+Bernd,Leno,Germany,32,1,Fulham,Goalkeeper
+Marc,Leonard,Scotland,22,N/A,N/A,Midfielder
+Jefferson,Lerma,Colombia,29,8,Crystal Palace,Midfielder
+Rico,Lewis,England,19,82,Manchester City,Defender
+Lewis,Miley,England,18,67,Newcastle United,Midfielder
+Keane,Lewis-Potter,England,23,23,Brentford,Forward
+Myles,Lewis-Skelly,England,17,59,Arsenal U19,Midfielder
+Victor,Lindelöf,Sweden,30,2,Manchester United,Defender
+Jesper,Lindstrøm,Denmark,24,29,Everton,Midfielder
+Mateusz,Lis,Poland,N/A,N/A,N/A,Goalkeeper
+Tino,Livramento,England,21,21,Newcastle United,Defender
+Hugo,Lloris,France,N/A,N/A,N/A,Goalkeeper
+Giovani,Lo Celso,Argentina,28,N/A,N/A,Midfielder
+Andy,Lonergan,England,40,N/A,N/A,Goalkeeper
+Sean,Longstaff,England,26,36,Newcastle United,Midfielder
+Jamal,Lowe,Jamaica,30,N/A,N/A,Forward
+Lucas,Paquetá,Brazil,27,10,West Ham United,Midfielder
+Luis,Guilherme,Brazil,18,17,West Ham United,Forward
+Romelu,Lukaku,Belgium,31,N/A,N/A,Forward
+Sasa,Lukic,Serbia,28,20,Fulham,Midfielder
+Joe,Lumley,England,29,13,Southampton,Goalkeeper
+Massimo,Luongo,Australia,31,25,Ipswich Town,Midfielder
+N/A,Lyanco,Brazil,N/A,N/A,N/A,Defender
+Ian,Maatsen,Netherlands,22,22,Aston Villa,Defender
+Alexis,Mac Allister,Argentina,25,10,Liverpool,Midfielder
+James,Maddison,England,27,10,Tottenham Hotspur,Midfielder
+Noni,Madueke,England,22,11,Chelsea,Forward
+Paris,Maghoma,England,23,19,Bolton Wanderers,Midfielder
+Harry,Maguire,England,31,5,Manchester United,Defender
+Mahmoud,Dahoud,Syria,28,N/A,N/A,Midfielder
+Kobbie,Mainoo,England,19,37,Manchester United,Midfielder
+Tyrell,Malacia,Netherlands,25,12,Manchester United,Defender
+Giorgi,Mamardashvili,Georgia,23,N/A,N/A,Goalkeeper
+Orel,Mangala,Belgium,26,N/A,Everton,Midfielder
+Ryan,Manning,Ireland,28,3,Southampton,Defender
+Javier,Manquillo,Spain,30,N/A,N/A,Defender
+Sékou,Mara,France,N/A,N/A,N/A,Forward
+Marcelo,Pitaluga,Brazil,N/A,N/A,N/A,Goalkeeper
+Solly,March,England,30,7,Brighton & Hove Albion,Midfielder
+Emiliano,Marcondes,Denmark,N/A,N/A,N/A,Midfielder
+N/A,Marquinhos,Brazil,21,N/A,N/A,Forward
+Filip,Marschall,England,21,N/A,N/A,Goalkeeper
+Callum,Marshall,Northern Ireland,19,N/A,N/A,Forward
+Anthony,Martial,France,N/A,N/A,N/A,Forward
+Emiliano,Martínez,Argentina,32,23,Aston Villa,Goalkeeper
+Tawanda,Maswanhise,Zimbabwe,N/A,N/A,N/A,Forward
+Mateo,Mejia,Spain,N/A,N/A,N/A,Forward
+Jean-Philippe,Mateta,France,27,14,Crystal Palace,Forward
+Mateus,Fernandes,Portugal,20,18,Southampton,Midfielder
+Sam,Mather,England,N/A,N/A,N/A,Midfielder
+Matheus,Cunha,Brazil,25,12,Wolverhampton Wanderers,Forward
+Matheus,França,Brazil,20,11,Crystal Palace,Forward
+Matheus,Nunes,Portugal,26,27,Manchester City,Midfielder
+Roshaun,Mathurin,England,N/A,N/A,N/A,Forward
+Joël,Matip,Cameroon,N/A,N/A,N/A,Defender
+Alex,Matos,England,19,N/A,N/A,Forward
+Remi,Matthews,England,30,31,Crystal Palace,Goalkeeper
+Neal,Maupay,France,N/A,N/A,N/A,Forward
+Mauro,Bandeira,Portugal,20,N/A,N/A,Midfielder
+Stephy,Mavididi,England,26,10,Leicester City,Forward
+Konstantinos,Mavropanos,Greece,26,15,West Ham United,Defender
+Adrian,Mazilu,Romania,18,N/A,N/A,Forward
+Noussair,Mazraoui,Morocco,26,3,Manchester United,Defender
+Kevin,Mbabu,Switzerland,29,N/A,N/A,Defender
+Loïc,Mbe Soh,France,23,N/A,N/A,Defender
+Luke,Mbete,England,20,N/A,N/A,Defender
+Bryan,Mbeumo,Cameroon,25,19,Brentford,Midfielder
+James,McAtee,England,21,87,Manchester City,Midfielder
+Kasey,McAteer,Ireland,22,35,Leicester City,Midfielder
+Alex,McCarthy,England,34,1,Southampton,Goalkeeper
+James,McConnell,England,N/A,N/A,N/A,Midfielder
+Jamie,McDonnell,Northern Ireland,20,N/A,N/A,Midfielder
+Tom,McGill,Canada,24,N/A,N/A,Goalkeeper
+John,McGinn,Scotland,29,7,Aston Villa,Midfielder
+Scott,McKenna,Scotland,27,N/A,N/A,Defender
+Conor,McManus,Ireland,N/A,N/A,N/A,Midfielder
+Dwight,McNeil,England,24,7,Everton,Forward
+Charlie,McNeill,England,20,N/A,N/A,Forward
+Scott,McTominay,Scotland,N/A,N/A,N/A,Midfielder
+Ben,Mee,England,34,16,Brentford,Defender
+Jayden,Meghoma,England,18,N/A,Brentford,Defender
+Hannibal,Mejbri,Tunisia,21,N/A,N/A,Midfielder
+Teden,Mengi,England,22,N/A,N/A,Defender
+Chris,Mepham,Wales,26,N/A,N/A,Defender
+Mikel,Merino,Spain,28,23,Arsenal,Midfielder
+Max,Merrick,England,N/A,N/A,N/A,Goalkeeper
+Jenson,Metcalfe,England,19,N/A,N/A,Midfielder
+Bastien,Meupiyou,France,18,N/A,Wolverhampton Wanderers,Defender
+Stephen,Mfuni,England,N/A,N/A,N/A,Defender
+Alex,Mighten,England,22,N/A,N/A,Forward
+Nikola,Milenkovic,Serbia,26,31,Nottingham Forest,Defender
+Jamie,Miley,England,20,N/A,N/A,Midfielder
+James,Milner,England,38,6,Brighton & Hove Albion,Midfielder
+Tyrone,Mings,England,31,5,Aston Villa,Defender
+Yankuba,Minteh,Gambia,20,17,Brighton & Hove Albion,Forward
+Tyrick,Mitchell,England,25,3,Crystal Palace,Defender
+Kaoru,Mitoma,Japan,27,22,Brighton & Hove Albion,Midfielder
+Aleksandar,Mitrovic,Serbia,29,N/A,N/A,Forward
+Jakub,Moder,Poland,25,15,Brighton & Hove Albion,Midfielder
+Mohamed,Elneny,Egypt,N/A,N/A,N/A,Midfielder
+Mohamed,Salah,Egypt,32,11,Liverpool,Forward
+Gonzalo,Montiel,Argentina,27,N/A,N/A,Defender
+Kieffer,Moore,Wales,32,N/A,N/A,Forward
+Andrew,Moran,Ireland,20,N/A,N/A,Midfielder
+N/A,Morato,Brazil,23,4,Nottingham Forest,Defender
+Álex,Moreno,Spain,31,19,Nottingham Forest,Defender
+Iwan,Morgan,Wales,18,40,Brentford,Forward
+Tyler,Morton,England,21,N/A,N/A,Midfielder
+Yerson,Mosquera,Colombia,23,2,Villarreal,Defender
+Louie,Moulden,England,N/A,N/A,N/A,Goalkeeper
+Mason,Mount,England,25,7,Manchester United,Midfielder
+Fabian,Mrozek,Poland,N/A,N/A,N/A,Goalkeeper
+Divin,Mubama,England,19,N/A,N/A,Forward
+Mykhailo,Mudryk,Ukraine,23,10,Chelsea,Midfielder
+Anthony,Munda,England,N/A,N/A,N/A,Midfielder
+Daniel,Muñoz,Colombia,28,12,Crystal Palace,Defender
+Finley,Munroe,England,N/A,N/A,N/A,Defender
+Arijanet,Muric,Kosovo,25,1,Ipswich Town,Goalkeeper
+N/A,Murillo,Brazil,22,5,Nottingham Forest,Defender
+Alex,Murphy,Ireland,20,37,Newcastle United,Defender
+Sam,Murray,England,N/A,N/A,N/A,Defender
+Harrison,Murray-Campbell,England,N/A,N/A,N/A,Defender
+Mateusz,Musialowski,Poland,20,N/A,N/A,Midfielder
+Vitalii,Mykolenko,Ukraine,25,19,Everton,Defender
+Amara,Nallo,England,N/A,N/A,N/A,Midfielder
+Corrie,Ndaba,Ireland,24,N/A,N/A,Defender
+Joel,Ndala,England,N/A,N/A,N/A,Forward
+Iliman,Ndiaye,Senegal,24,10,Everton,Forward
+Wilfred,Ndidi,Nigeria,27,6,Leicester City,Midfielder
+Michael,Ndiweni,England,N/A,N/A,N/A,Forward
+Tanguy,Ndombélé,France,27,N/A,N/A,Midfielder
+Kosta,Nedeljkovic,Serbia,18,N/A,N/A,Defender
+Reiss,Nelson,England,24,N/A,Fulham,Forward
+Nélson,Semedo,Portugal,30,22,Wolverhampton Wanderers,Defender
+N/A,Neto,Brazil,35,32,Arsenal,Goalkeeper
+Moussa,Niakhaté,Senegal,28,N/A,N/A,Defender
+Josh,Nichols,England,N/A,N/A,N/A,Defender
+Eddie,Nketiah,England,25,9,Crystal Palace,Forward
+Christopher,Nkunku,France,26,18,Chelsea,Forward
+Darwin,Núñez,Uruguay,25,9,Liverpool,Forward
+Nuno,Tavares,Portugal,24,N/A,N/A,Defender
+Ethan,Nwaneri,England,17,63,Arsenal U19,Midfielder
+Lucas,Nygaard,Denmark,N/A,N/A,N/A,Goalkeeper
+Treymaurice,Nyoni,England,N/A,N/A,N/A,Midfielder
+Christian,Nørgaard,Denmark,30,6,Brentford,Midfielder
+Jake,O'Brien,Ireland,23,15,Everton,Defender
+Joseph,O'Brien-Whitmarsh,Ireland,19,60,Southampton,Midfielder
+Nico,O'Reilly,England,19,N/A,N/A,Midfielder
+Matt,O'Riley,Denmark,23,25,Brighton & Hove Albion,Midfielder
+Dara,O'Shea,Ireland,25,26,Ipswich Town,Defender
+Justin,Oboavwoduo,England,N/A,N/A,N/A,Forward
+Wilson,Odobert,France,19,28,Tottenham Hotspur,Forward
+Odeluga,Offiah,England,21,N/A,N/A,Defender
+Chiedozie,Ogbene,Ireland,27,21,Ipswich Town,Forward
+Angelo,Ogbonna,Italy,36,N/A,N/A,Defender
+Habeeb,Ogunneye,England,N/A,N/A,N/A,Defender
+Temple,Ojinnaka,Italy,N/A,N/A,N/A,Midfielder
+Wes,Okoduwa,England,N/A,N/A,N/A,Defender
+Caleb,Okoli,Italy,23,5,Leicester City,Defender
+Arthur,Okonkwo,England,22,N/A,N/A,Goalkeeper
+Michael,Olise,France,22,N/A,N/A,Midfielder
+Robin,Olsen,Sweden,34,25,Aston Villa,Goalkeeper
+Andrew,Omobamidele,Ireland,22,12,Nottingham Forest,Defender
+Amadou,Onana,Belgium,23,24,Aston Villa,Midfielder
+Paul,Onuachu,Nigeria,30,32,Southampton,Forward
+Tyler,Onyango,England,21,N/A,N/A,Midfielder
+Frank,Onyeka,Nigeria,N/A,N/A,N/A,Midfielder
+Lewis,Orford,England,N/A,N/A,N/A,Midfielder
+Divock,Origi,Belgium,N/A,N/A,N/A,Forward
+Stefan,Ortega,Germany,31,18,Manchester City,Goalkeeper
+Ibrahim,Osman,Ghana,19,N/A,N/A,Forward
+Esapa,Osong,England,19,N/A,N/A,Forward
+William,Osula,Denmark,21,18,Newcastle United,Forward
+Dango,Ouattara,Burkina Faso,22,11,Bournemouth,Forward
+Salah-Eddine,Oulad M'hand,Netherlands,21,56,Arsenal,Midfielder
+Riley,Owen,England,N/A,N/A,N/A,Midfielder
+Maxi,Oyedele,Poland,19,N/A,N/A,Midfielder
+David,Ozoh,England,19,N/A,N/A,Midfielder
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Cole,Palmer,England,22,20,Chelsea,Midfielder
+Panutche,Camará,Guinea-Bissau,27,N/A,N/A,Midfielder
+Jonathan,Panzo,England,23,N/A,N/A,Defender
+Ben,Parkinson,England,N/A,N/A,N/A,Forward
+Thomas,Partey,Ghana,31,5,Arsenal,Midfielder
+Travis,Patterson,England,N/A,N/A,N/A,Midfielder
+Alex,Paulsen,New Zealand,N/A,N/A,N/A,Goalkeeper
+Myles,Peart-Harris,England,21,N/A,N/A,Midfielder
+Pedro,Lima,Brazil,18,37,Wolverhampton Wanderers,Defender
+Pedro,Neto,Portugal,24,7,Chelsea,Forward
+Facundo,Pellistri,Uruguay,22,N/A,N/A,Forward
+Mike,Penders,Belgium,19,N/A,N/A,Goalkeeper
+Nicolas,Pépé,Cote D’Ivoire,29,N/A,N/A,Forward
+Ivan,Perisic,Croatia,35,N/A,N/A,Forward
+Máximo,Perrone,Argentina,21,N/A,N/A,Midfielder
+Ben,Perry,England,19,59,Nottingham Forest,Midfielder
+Djordje,Petrovic,Serbia,N/A,N/A,N/A,Goalkeeper
+Cameron,Peupion,Australia,21,32,Brighton & Hove Albion,Midfielder
+Philippe,Coutinho,Brazil,N/A,N/A,N/A,Midfielder
+Killian,Phillips,Ireland,22,N/A,N/A,Midfielder
+Jaden,Philogene,England,22,19,Aston Villa,Forward
+Jordan,Pickford,England,30,1,Everton,Goalkeeper
+Ethan,Pinnock,Jamaica,31,5,Brentford,Defender
+Cameron,Plain,England,N/A,N/A,N/A,Goalkeeper
+Player,1,England,N/A,N/A,N/A,Midfielder
+Nick,Pope,England,32,22,Newcastle United,Goalkeeper
+Chris,Popov,Wales,19,N/A,N/A,Midfielder
+Pedro,Porro,Spain,24,23,Tottenham Hotspur,Defender
+Freddie,Potts,England,20,N/A,N/A,Midfielder
+Dennis,Praet,Belgium,N/A,N/A,N/A,Midfielder
+Sam,Proctor,England,N/A,N/A,N/A,Goalkeeper
+Logan,Pye,England,N/A,N/A,N/A,Defender
+Jarell,Quansah,England,21,78,Liverpool,Defender
+Andrei,Radu,Romania,27,N/A,N/A,Goalkeeper
+Arjan,Raikhy,England,N/A,N/A,N/A,Midfielder
+Jesurun,Rak-Sakyi,England,21,N/A,N/A,Midfielder
+Aaron,Ramsdale,England,26,30,Southampton,Goalkeeper
+Jacob,Ramsey,England,23,41,Aston Villa,Midfielder
+Darren,Randolph,Ireland,N/A,N/A,N/A,Goalkeeper
+Marcus,Rashford,England,26,10,Manchester United,Forward
+Luke,Rawlings,England,N/A,62,Wolverhampton Wanderers,Midfielder
+David,Raya,Spain,28,22,Arsenal,Goalkeeper
+Jadan,Raymond,Wales,20,N/A,N/A,Midfielder
+Tim,Ream,United States,N/A,N/A,N/A,Defender
+Harrison,Reed,England,29,6,Fulham,Midfielder
+Sergio,Reguilón,Spain,27,3,Tottenham Hotspur,Defender
+Omar,Rekik,Tunisia,N/A,N/A,N/A,Defender
+Renato,Veiga,Portugal,21,40,Chelsea,Midfielder
+Giovanni,Reyna,United States,21,N/A,N/A,Midfielder
+Chadi,Riad,Morocco,21,34,Crystal Palace,Defender
+Ricardo,Pereira,Portugal,30,21,Leicester City,Defender
+Declan,Rice,England,25,41,Arsenal,Midfielder
+Dujuan,Richards,Jamaica,18,N/A,N/A,Forward
+N/A,Richarlison,Brazil,27,9,Tottenham Hotspur,Forward
+Jairo,Riedewald,Netherlands,27,N/A,N/A,Midfielder
+Matt,Ritchie,Scotland,34,N/A,N/A,Midfielder
+Andy,Robertson,Scotland,30,26,Liverpool,Defender
+Antonee,Robinson,United States,27,33,Fulham,Defender
+Max,Robson,England,N/A,N/A,N/A,Midfielder
+Marek,Rodák,Slovakia,27,N/A,N/A,Goalkeeper
+Kaden,Rodney,England,19,42,Crystal Palace,Midfielder
+Joe,Rodon,Wales,26,N/A,N/A,Defender
+N/A,Rodri,Spain,28,16,Manchester City,Midfielder
+Rodrigo,Gomes,Portugal,21,19,Wolverhampton Wanderers,Forward
+Rodrigo,Muniz,Brazil,23,9,Fulham,Forward
+Rodrigo,Ribeiro,Portugal,19,N/A,N/A,Forward
+Guido,Rodríguez,Argentina,30,24,West Ham United,Midfielder
+Mads,Roerslev,Denmark,25,30,Brentford,Defender
+Morgan,Rogers,England,22,27,Aston Villa,Forward
+Alexei,Rojas Fedorushchenko,Colombia,N/A,N/A,N/A,Goalkeeper
+Cristian,Romero,Argentina,26,17,Tottenham Hotspur,Defender
+Reggie,Rose,England,N/A,N/A,N/A,Goalkeeper
+Michal,Rosiak,Poland,N/A,N/A,N/A,Defender
+Joe,Rothwell,England,29,N/A,N/A,Midfielder
+Rúben,Dias,Portugal,27,3,Manchester City,Defender
+John,Ruddy,England,37,26,Newcastle United,Goalkeeper
+Rúnar,Rúnarsson,Iceland,29,N/A,N/A,Goalkeeper
+Carl,Rushworth,England,23,N/A,N/A,Goalkeeper
+Georginio,Rutter,France,22,14,Brighton & Hove Albion,Forward
+Charles,Sagoe Jr,England,20,N/A,N/A,Forward
+Bukayo,Saka,England,22,7,Arsenal,Forward
+William,Saliba,France,23,2,Arsenal,Defender
+Sam,Morsy,Egypt,32,5,Ipswich Town,Midfielder
+Albert,Sambi Lokonga,Belgium,24,N/A,N/A,Midfielder
+Lakyle,Samuel,England,N/A,N/A,N/A,Defender
+Imari,Samuels,England,21,12,Fleetwood Town,Defender
+Ishé,Samuels-Smith,England,N/A,N/A,N/A,Defender
+Robert,Sánchez,Spain,26,1,Chelsea,Goalkeeper
+Jadon,Sancho,England,24,19,Chelsea,Forward
+Ibrahim,Sangaré,Cote D’Ivoire,26,6,Nottingham Forest,Midfielder
+Yago,Santiago,Spain,N/A,N/A,N/A,Forward
+Trevan,Sanusi,England,N/A,N/A,N/A,Forward
+Pablo,Sarabia,Spain,32,21,Wolverhampton Wanderers,Midfielder
+Jeremy,Sarmiento,Ecuador,22,N/A,N/A,Midfielder
+Malang,Sarr,France,25,N/A,N/A,Defender
+N/A,Savinho,Brazil,20,26,Manchester City,Forward
+Calum,Scanlon,England,19,N/A,N/A,Defender
+Ollie,Scarles,England,N/A,N/A,N/A,Defender
+Dane,Scarlett,England,20,N/A,N/A,Forward
+Kevin,Schade,Germany,22,7,Brentford,Midfielder
+Fabian,Schär,Switzerland,32,5,Newcastle United,Defender
+Kjell,Scherpen,Netherlands,24,N/A,N/A,Goalkeeper
+Jeffrey,Schlupp,Ghana,31,15,Crystal Palace,Midfielder
+Alex,Scott,England,21,8,Bournemouth,Midfielder
+Kristian,Sekularac,Switzerland,N/A,N/A,N/A,Midfielder
+Matz,Sels,Belgium,32,26,Nottingham Forest,Goalkeeper
+Antoine,Semenyo,Ghana,24,24,Bournemouth,Forward
+Marcos,Senesi,Argentina,27,5,Bournemouth,Defender
+Ryan,Sessegnon,England,24,30,Fulham,Midfielder
+Tommy,Setford,England,18,36,Arsenal,Goalkeeper
+Leo,Shahar,England,N/A,N/A,N/A,Defender
+Luke,Shaw,England,29,23,Manchester United,Defender
+Shola,Shoretire,England,20,N/A,N/A,Forward
+Abdallah,Sima,Senegal,23,N/A,N/A,Forward
+Freddie,Simmonds,England,N/A,N/A,N/A,Defender
+Jahmai,Simpson-Pusey,England,N/A,N/A,N/A,Defender
+Luis,Sinisterra,Colombia,25,17,Bournemouth,Forward
+Oliver,Skipp,England,23,22,Leicester City,Midfielder
+Cieran,Slicker,Scotland,21,13,Ipswich Town,Goalkeeper
+Gabriel,Slonina,United States,20,N/A,N/A,Goalkeeper
+Will,Smallbone,Ireland,24,8,Southampton,Midfielder
+Adam,Smith,England,33,15,Bournemouth,Defender
+Emile,Smith Rowe,England,24,32,Fulham,Midfielder
+Dominic,Solanke,England,26,19,Tottenham Hotspur,Forward
+Carlos,Soler,Spain,27,N/A,West Ham United,Midfielder
+Manor,Solomon,Israel,25,N/A,N/A,Forward
+Son,Heung-Min,South Korea,32,7,Tottenham Hotspur,Forward
+Ramón,Sosa,Paraguay,25,24,Nottingham Forest,Forward
+Tomás,Soucek,Czech Republic,29,28,West Ham United,Midfielder
+Boubakary,Soumaré,France,25,24,Sevilla,Midfielder
+Lino,Sousa,England,19,N/A,N/A,Defender
+Harry,Souttar,Australia,25,N/A,N/A,Defender
+Djed,Spence,England,24,24,Tottenham Hotspur,Defender
+Marko,Stamenic,New Zealand,22,N/A,N/A,Midfielder
+Jay,Stansfield,England,21,N/A,N/A,Forward
+Ellis,Stanton,England,N/A,N/A,N/A,Midfielder
+Jason,Steele,England,34,23,Brighton & Hove Albion,Goalkeeper
+Zack,Steffen,United States,N/A,N/A,N/A,Goalkeeper
+Jack,Stephens,England,30,N/A,N/A,Defender
+Luca,Stephenson,England,N/A,N/A,N/A,Midfielder
+Raheem,Sterling,England,29,N/A,Arsenal,Forward
+Finley,Stevens,Wales,21,N/A,N/A,Defender
+Ross,Stewart,Scotland,28,11,Southampton,Forward
+Jakub,Stolarczyk,Poland,23,41,Leicester City,Goalkeeper
+John,Stones,England,30,5,Manchester City,Defender
+Thomas,Strakosha,Albania,N/A,N/A,N/A,Goalkeeper
+Jørgen,Strand Larsen,Norway,24,9,Wolverhampton Wanderers,Forward
+Zak,Sturge,England,N/A,N/A,N/A,Defender
+Ronnie,Stutter,England,19,N/A,N/A,Forward
+Yukinari,Sugawara,Japan,24,16,Southampton,Defender
+Kamaldeen,Sulemana,Ghana,22,20,Southampton,Midfielder
+Crysencio,Summerville,Netherlands,22,7,West Ham United,Forward
+Mahamadou,Susoho,Spain,19,N/A,N/A,Midfielder
+James,Sweet,Wales,N/A,N/A,N/A,Defender
+Sil,Swinkels,Netherlands,20,50,Aston Villa,Defender
+Kamarai,Swyer,England,N/A,N/A,N/A,Midfielder
+Freddie,Symonds,England,N/A,N/A,N/A,Defender
+Sam,Szmodics,Ireland,28,23,Ipswich Town,Midfielder
+Dominik,Szoboszlai,Hungary,23,8,Liverpool,Midfielder
+Japhet,Tanganga,England,25,N/A,N/A,Defender
+Devan,Tanton,Colombia,20,N/A,N/A,Defender
+Matt,Targett,England,28,13,Newcastle United,Defender
+James,Tarkowski,England,31,6,Everton,Defender
+Jimi,Tauriainen,Finland,N/A,N/A,N/A,Midfielder
+Marcus,Tavernier,England,25,16,Bournemouth,Midfielder
+Jack,Taylor,Ireland,26,14,Ipswich Town,Midfielder
+Kenny,Tete,Netherlands,28,2,Fulham,Defender
+N/A,Thiago,Brazil,23,9,Brentford,Forward
+Thiago,Silva,Brazil,N/A,N/A,N/A,Defender
+Silko-Amari,Thomas,England,20,N/A,N/A,Forward
+Ciaran,Thompson,England,N/A,N/A,N/A,Defender
+Youri,Tielemans,Belgium,27,8,Aston Villa,Midfielder
+Kieran,Tierney,Scotland,27,17,Real Sociedad,Defender
+Jurriën,Timber,Netherlands,23,12,Arsenal,Defender
+Jean-Clair,Todibo,France,24,25,West Ham United,Defender
+Harry,Toffolo,England,29,15,Nottingham Forest,Defender
+Takehiro,Tomiyasu,Japan,25,18,Arsenal,Defender
+James,Tomkins,England,N/A,N/A,N/A,Defender
+Sandro,Tonali,Italy,24,8,Newcastle United,Midfielder
+Ivan,Toney,England,N/A,N/A,N/A,Forward
+Pau,Torres,Spain,27,14,Aston Villa,Defender
+Toti,Gomes,Portugal,25,24,Wolverhampton Wanderers,Defender
+Conor,Townsend,England,31,22,Ipswich Town,Defender
+Bertrand,Traoré,Burkina Faso,28,N/A,N/A,Forward
+Mark,Travers,Ireland,25,42,Bournemouth,Goalkeeper
+Ryan,Trevitt,England,21,28,Brentford,Midfielder
+Trialist,B,England,N/A,N/A,N/A,Midfielder
+Kieran,Trippier,England,33,2,Newcastle United,Defender
+Leandro,Trossard,Belgium,29,19,Arsenal,Forward
+Kostas,Tsimikas,Greece,28,21,Liverpool,Defender
+Axel,Tuanzebe,DR Congo,26,40,Ipswich Town,Defender
+Matt,Turner,United States,30,N/A,Crystal Palace,Goalkeeper
+Jay,Turner-Cooke,England,N/A,N/A,N/A,Midfielder
+Ed,Turns,Wales,21,12,Crewe Alexandra,Defender
+Harry,Tyrer,England,22,N/A,N/A,Goalkeeper
+Destiny,Udogie,Italy,21,13,Tottenham Hotspur,Defender
+Manuel,Ugarte,Uruguay,23,25,Manchester United,Midfielder
+Lesley,Ugochukwu,France,20,26,Southampton,Midfielder
+Franco,Umeh-Chibueze,Ireland,19,46,Crystal Palace,Forward
+Enes,Ünal,Turkey,27,26,Bournemouth,Forward
+Deniz,Undav,Germany,28,N/A,N/A,Forward
+Hákon,Valdimarsson,Iceland,22,12,Brentford,Goalkeeper
+Donny,van de Beek,Netherlands,27,N/A,N/A,Midfielder
+Micky,van de Ven,Netherlands,23,37,Tottenham Hotspur,Defender
+Sepp,van den Berg,Netherlands,22,4,Brentford,Defender
+Virgil,van Dijk,Netherlands,33,4,Liverpool,Defender
+Jan,Paul van Hecke,Netherlands,24,29,Brighton & Hove Albion,Defender
+Raphaël,Varane,France,N/A,N/A,N/A,Defender
+Jamie,Vardy,England,37,9,Leicester City,Forward
+Alejo,Véliz,Argentina,20,N/A,N/A,Forward
+Joël,Veltman,Netherlands,32,34,Brighton & Hove Albion,Defender
+Bart,Verbruggen,Netherlands,22,1,Brighton & Hove Albion,Goalkeeper
+Jannik,Vestergaard,Denmark,32,23,Leicester City,Defender
+Guglielmo,Vicario,Italy,27,1,Tottenham Hotspur,Goalkeeper
+Radek,Vítek,Czech Republic,20,N/A,N/A,Goalkeeper
+Odysseas,Vlachodimos,Greece,30,19,Newcastle United,Goalkeeper
+Kyle,Walker,England,34,2,Manchester City,Defender
+Kyle,Walker-Peters,England,27,2,Southampton,Defender
+Reuell,Walters,England,19,N/A,N/A,Defender
+Christian,Walton,England,28,28,Ipswich Town,Goalkeeper
+Aaron,Wan-Bissaka,England,26,29,West Ham United,Defender
+Wanya,Marçal,Portugal,N/A,N/A,N/A,Midfielder
+Joel,Ward,England,34,2,Crystal Palace,Defender
+James,Ward-Prowse,England,29,N/A,Nottingham Forest,Midfielder
+Lewis,Warrington,England,21,N/A,N/A,Midfielder
+Ollie,Watkins,England,28,11,Aston Villa,Forward
+Adam,Webster,England,29,4,Brighton & Hove Albion,Defender
+Jensen,Weir,England,22,N/A,N/A,Midfielder
+Danny,Welbeck,England,33,18,Brighton & Hove Albion,Forward
+Jack,Wells-Morrison,England,N/A,N/A,N/A,Midfielder
+Timo,Werner,Germany,28,16,Tottenham Hotspur,Forward
+Wesley,Fofana,France,23,29,Chelsea,Defender
+Adam,Wharton,England,20,20,Crystal Palace,Midfielder
+Ethan,Wheatley,England,18,36,Manchester United,Forward
+Ben,White,England,26,4,Arsenal,Defender
+Alfie,Whiteman,England,25,41,Tottenham Hotspur,Goalkeeper
+Matthew,Whittingham,England,N/A,N/A,N/A,Midfielder
+Joe,Whitworth,England,20,N/A,N/A,Goalkeeper
+Mats,Wieffer,Netherlands,24,27,Brighton & Hove Albion,Midfielder
+Caleb,Wiley,United States,19,N/A,N/A,Defender
+Dylan,Williams,England,20,N/A,N/A,Defender
+N/A,Willian,Brazil,36,N/A,N/A,Forward
+Joe,Willock,England,25,28,Newcastle United,Midfielder
+Harry,Wilson,Wales,27,8,Fulham,Midfielder
+Josh,Wilson-Esbrand,England,21,97,Manchester City,Defender
+Harry,Winks,England,28,8,Leicester City,Midfielder
+Ben,Winterbottom,England,N/A,N/A,N/A,Goalkeeper
+Yoane,Wissa,DR Congo,28,11,Brentford,Midfielder
+Chris,Wood,New Zealand,32,11,Nottingham Forest,Forward
+Luke,Woolfenden,England,25,6,Ipswich Town,Defender
+Tom,Wooster,England,N/A,N/A,N/A,Goalkeeper
+Joe,Worrall,England,27,N/A,N/A,Defender
+James,Wright,England,N/A,N/A,N/A,Goalkeeper
+Malick,Yalcouyé,Mali,18,N/A,N/A,Midfielder
+Yan,Couto,Brazil,22,N/A,N/A,Defender
+Yehor,Yarmoliuk,Ukraine,20,18,Brentford,Midfielder
+Ryan,Yates,England,26,22,Nottingham Forest,Midfielder
+Tony,Yogane,England,N/A,N/A,N/A,Midfielder
+Leny,Yoro,France,18,15,Manchester United,Defender
+Kadan,Young,England,18,N/A,N/A,Midfielder
+Youssef,Chermiti,Portugal,20,17,Everton,Forward
+Illia,Zabarnyi,Ukraine,22,27,Bournemouth,Defender
+Nicolò,Zaniolo,Italy,25,N/A,N/A,Midfielder
+N/A,Zanka,Denmark,34,N/A,N/A,Defender
+Andi,Zeqiri,Switzerland,25,N/A,N/A,Forward
+Oleksandr,Zinchenko,Ukraine,27,17,Arsenal,Defender
+Joshua,Zirkzee,Netherlands,23,11,Manchester United,Forward
+Hakim,Ziyech,Morocco,31,N/A,N/A,Midfielder
+Kurt,Zouma,France,N/A,N/A,N/A,Defender
+Oliwier,Zych,Poland,20,48,Aston Villa,Goalkeeper
+Martin,Ødegaard,Norway,25,8,Arsenal,Midfielder
