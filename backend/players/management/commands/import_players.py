@@ -3,9 +3,16 @@ import chardet
 from django.core.management.base import BaseCommand
 from players.models import League, Team, Player
 
+POSITION_MAPPING = {
+    'Goalkeeper' : 'GK',
+    'Defender' : 'DF',
+    'Midfielder' : 'MF',
+    'Forward' : 'FW'
+}
+
 class Command(BaseCommand):
     help = 'Import players from CSV file'
-
+ 
     def add_arguments(self, parser):
         parser.add_argument('csv_file', type=str,
             default='/home/tl/Documents/prem_players_final.csv',
@@ -55,14 +62,19 @@ class Command(BaseCommand):
                     player, created = Player.objects.get_or_create(
                         first_name=row['first_name'],
                         last_name=row['last_name'],
-                        defaults={
+                        defaults= {
                             'nationality': row['nationality'],
                             'age': int(row['age']) if row['age'].isdigit() else None,
                             'shirt_number': int(row['shirt_number']) if row['shirt_number'].isdigit() else None,
-                            'position': row['position'],
+                            'position': POSITION_MAPPING.get(row['position'], 'UN'),
                             'team': team,
                         }
                     )
+
+                    if row['position'] not in POSITION_MAPPING:
+                        self.stdout.write(self.style.WARNING(f"Unknown Position: {row['position']} for player {row['last_name']}"))
+
+
                     if created:
                         self.stdout.write(self.style.SUCCESS(f'Created player: {player}'))
                     else:
